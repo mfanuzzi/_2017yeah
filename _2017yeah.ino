@@ -25,7 +25,7 @@
 #define FLIPPED true    // If true, that means the cord is comin out of the bottom
 #define DELAYAMOUNT 23  // Number of "frames" to delay the 2nd board by
 #define FRAMEDURATION 70 // In ms
-#define BRIGHTNESS 70   // Out of 255. Probably want to crank it up for the shot, but otherwise that's blinding.
+#define BRIGHTNESS 180   // Out of 255. Probably want to crank it up for the shot, but otherwise that's blinding.
 
 // END EASY SETTINGS :)
 
